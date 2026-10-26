@@ -1,9 +1,12 @@
 #tabla,th,td{
     border: 1px solid black ;
 }
-.datos{
-    background-color: rgb(14, 145, 145);
+.dia{
+    background-color: rgb(164, 255, 255);
 }
-.total{
-    background-color: rgb(255, 186, 101);
+.hora{
+    background-color: rgb(185, 44, 185);
+}
+.aula{
+    background-color: rgb(255, 0, 149);
 }

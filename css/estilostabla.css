@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+table {
+    width: 260px;
+    height: 280px;
+    border-collapse: collapse;
+}
+
+td {
+    background-color: white;
+    border: 5px solid black;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: steelblue;
+}
